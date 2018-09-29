@@ -1,0 +1,6 @@
+<!DOCTYPE HTML>
+<html>
+Relay is : Off<br><br>
+Click <a href="/RELAY=ON">here</a> turn the RELAY on.<br>
+Click <a href="/RELAY=OFF">here</a> turn the RELAY off.<br>
+</html>
